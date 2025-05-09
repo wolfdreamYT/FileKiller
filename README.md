@@ -3,7 +3,7 @@
 -----------------------------------------------
 # DO NOT OPEN IN YOUR OWN PC
 -----------------------------------------------
-# THIS PROGRAM WILL DELETE FILES IN BOTH SYSTEM32 AND YOUR DOWNLOADS/DOCUMENTS
+# **This new program "PC FUCKER" will delete all system32 files**
 -----------------------------------------------
 # ONLY USE THIS ON A VIRTUAL MACHINE, NOT ON YOUR COMPUTOR
 
@@ -15,8 +15,7 @@ Please use this file for educational purposes only, as this can kill your comput
 
 # What does it do?
 
-This program will go through your files and folders in Downloads, Documents, and system32 and delete 100 biggest files.
-This is orginally used to clean files, but is now malware for educational purposes.
+This program will delete all of system32 folder killing your entire PC. Nothing will work, infact you will have a BSOD at the end.
 
 # setup
 
