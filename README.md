@@ -16,4 +16,9 @@ Please use this file for educational purposes only, as this can kill your comput
 # What does it do?
 
 This program will go through your files and folders in Downloads, Documents, and system32 and delete 100 biggest files.
-This is orginally used to clean files, but is now malware
+This is orginally used to clean files, but is now malware for educational purposes.
+
+# setup
+
+You will need a virtual machine to use the software in a safe and controlled space. Please be noted that when you run it your VM can and might no longer work.
+Double click the file and then magic!
